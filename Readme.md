@@ -15,13 +15,9 @@ In this project, the future bus demand forecasts of municipalities were studied.
 ## INSTALLATION
 
 **Python --version 3.9.13**
-```
-pip install pandas
-pip install numpy
-pip install scikit-learn
-pip install matplotlib
-pip install datetime
-pip install prophet
+
+```bash
+pip install -r requirements.txt
 ```
 
 ## DATA     
